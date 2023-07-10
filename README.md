@@ -7,7 +7,6 @@
 [![GitHub S M Simon](https://img.shields.io/github/followers/sifemahmudsimon?label=follow&style=social)](https://github.com/sifemahmudsimon)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifemahmudsimon&label=Profile%20views&color=0e75b6&style=flat" alt="sifemahmudsimon" /> </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -64,7 +63,7 @@
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
