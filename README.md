@@ -1,10 +1,50 @@
 ![logo](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
 
-<h1 align="center">Hi 👋, I'm S M Simon</h1>
-<h3 align="center">Working As A Front End Developer</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<h1 align="left">Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> I'm S M Simon</h1>
+<h3 align="left">Working As A Front End Developer</h3>
+
+[![Linkedin: S M Simon](https://img.shields.io/badge/-sifemahmudsimon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sifemahmudsimon/)](https://www.linkedin.com/in/sifemahmudsimon/)
+[![GitHub S M Simon](https://img.shields.io/github/followers/sifemahmudsimon?label=follow&style=social)](https://github.com/sifemahmudsimon)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifemahmudsimon&label=Profile%20views&color=0e75b6&style=flat" alt="sifemahmudsimon" /> </p>
 
+<img align="right" alt="coding" width="400" src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif">
+
+```javascript
+const SoftwareEngineer = {
+  name: "S M Simon",
+  contact: [
+         Email: "sifemahmudsimon@gmail.com,
+         Phone: "+8801728337711",
+  ],
+  technologies: [
+        frontEnd: {
+            js: ["React", "Vanila"],
+            html: "HTML5",
+            css: ["CSS3","SCSS","Bootstarp5","Tailwind"],
+        },
+        mobileApp: {
+            native: ["React-Native"]
+        },
+        devOps: ["AWS", "Docker🐳"], /*Learning*/
+        databases: ["MySql"],
+        misc: ["Firebase", "Socket.IO", "open-cv", "GraphQL"]
+    ],
+  techBackground: [
+                        location : "Bangladesh",
+                        speaker: "English & Bangla",
+                        Study: "Daffodill International University"
+                        Degree: "Computer Science"
+                      ],
+ challenge: "I am doing the #100DaysOfCode challenge focused on react"
+}
+
+me=SoftwareEngineer()
+me.say_hi()
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
 - 🔭 I’m currently working on **front end designs & developing on React**
 
 - 🌱 I’m currently learning **React, React Native, Django**
@@ -24,51 +64,106 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-   <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"> <img
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"> <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
             alt="vscode" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+      <br>VS
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
             src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      <br>R.Native
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" /> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      <br>HTML5
+    </td>
+   <td align="center" width="96">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="40" height="40" /> </a>
+      <br>CSS3
+    </td>
+   <td align="center" width="96"> 
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
+      <br>Python
+    </td>
+    <td align="center" width="96"> 
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      <br>Django
+    </td>
+   <td align="center" width="96"> 
+       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40" /> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
+      <br>MySQL
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+   <td align="center" width="96"> 
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
+      <br>Figma
+    </td>
+   <td align="center" width="96"> 
+       <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-            width="40" height="40" /> </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" /> </a>
+      <br>AdobeXD
+    </td>
+  </tr>
+</table>
 
-</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/smsimon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="smsimon" /></a></p><br><br><br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sifemahmudsimon&show_icons=true&locale=en&layout=compact" alt="sifemahmudsimon" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sifemahmudsimon&show_icons=true&locale=en" alt="sifemahmudsimon" /></p>
+<!--*************** Stats ***************-->
+<h2>📈 <strong>My GitHub Stats:</strong></h2>
+<div align="left">
+  <img 
+    width="400" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=sifemahmudsimon&theme=dracula&show_icons=true" 
+    alt="sifemahmudsimon"/>
+  <img 
+    width="400" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifemahmudsimon&theme=dracula&layout=compact" 
+    alt="sifemahmudsimon" />
+</div>
+<div align="left">
+  <img 
+    width="400" 
+    height="180em" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sifemahmudsimon&theme=dracula&hide_border=false" 
+    alt="sifemahmudsimon's readme streaks" />
+</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sifemahmudsimon&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
+---
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sifemahmudsimon&" alt="sifemahmudsimon" /></p>
