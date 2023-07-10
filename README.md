@@ -9,31 +9,33 @@
 
 
 ```javascript
+/******  Little   Bit   Of   MySelf ******/
+
 const SoftwareEngineer = {
   name: "S M Simon",
-  contact: [
-         Email: "sifemahmudsimon@gmail.com,
-         Phone: "+8801728337711",
-  ],
-  technologies: [
+  contact: {
+         email: "sifemahmudsimon@gmail.com",
+         phone: "+8801728337711"
+  },
+  technologies: {
         frontEnd: {
             js: ["React", "Vanila"],
-            html: "HTML5",
-            css: ["CSS3","SCSS","Bootstarp5","Tailwind"],
+            html: "Html5",
+            css: ["Css","Scss","Bootstarp5","Tailwind"]
         },
         mobileApp: {
             native: ["React-Native"]
         },
-        devOps: ["AWS", "Docker🐳"], /*Learning*/
+        devOps: ["Aws", "Docker🐳"], /*Learning*/
         databases: ["MySql"],
-        misc: ["Firebase", "Socket.IO", "open-cv", "GraphQL"]
-    ],
-  techBackground: [
+        misc: ["Firebase", "Socket.IO", "Open-cv", "GraphQL"]
+    },
+  techBackground: {
                         location : "Bangladesh",
                         speaker: "English & Bangla",
-                        Study: "Daffodill International University"
-                        Degree: "Computer Science"
-                      ],
+                        Study: "Daffodill International University",
+                        degree: "Computer Science"
+                      },
  challenge: "I am doing the #100DaysOfCode challenge focused on react"
 }
 
