@@ -7,7 +7,6 @@
 [![GitHub S M Simon](https://img.shields.io/github/followers/sifemahmudsimon?label=follow&style=social)](https://github.com/sifemahmudsimon)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifemahmudsimon&label=Profile%20views&color=0e75b6&style=flat" alt="sifemahmudsimon" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif">
 
 ```javascript
 const SoftwareEngineer = {
