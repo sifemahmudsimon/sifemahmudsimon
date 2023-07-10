@@ -7,65 +7,6 @@
 [![GitHub S M Simon](https://img.shields.io/github/followers/sifemahmudsimon?label=follow&style=social)](https://github.com/sifemahmudsimon)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifemahmudsimon&label=Profile%20views&color=0e75b6&style=flat" alt="sifemahmudsimon" /> </p>
 
-
-```javascript
-/******  Little   Bit   Of   MySelf ******/
-
-const SoftwareEngineer = {
-  name: "S M Simon",
-  contact: {
-         email: "sifemahmudsimon@gmail.com",
-         phone: "+8801728337711"
-  },
-  technologies: {
-        frontEnd: {
-            js: ["React", "Vanila"],
-            html: "Html5",
-            css: ["Css","Scss","Bootstarp5","Tailwind"]
-        },
-        mobileApp: {
-            native: ["React-Native"]
-        },
-        devOps: ["Aws", "Docker🐳"], /*Learning*/
-        databases: ["MySql"],
-        misc: ["Firebase", "Socket.IO", "Open-cv", "GraphQL"]
-    },
-  techBackground: {
-                        location : "Bangladesh",
-                        speaker: "English & Bangla",
-                        Study: "Daffodill International University",
-                        degree: "Computer Science"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react"
-}
-
-me=SoftwareEngineer()
-me.say_hi()
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
-- 🔭 I’m currently working on **front end designs & developing on React**
-
-- 🌱 I’m currently learning **React, React Native, Django**
-
-- 🤝 I’m persuing my career as a **Full Stack Developer**
-
-- 📫 How to reach me **sifemahmudsimon@gmail.com or +8801728337711**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/sifemahmudsimon/](https://www.linkedin.com/in/sifemahmudsimon/)
-
-- ⚡ Speciality **I can adapt new things easily & Im a fast learner**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sifemahmudsimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sifemahmudsimon" height="30" width="40" /></a>
-<a href="https://fb.com/koushiksimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="koushiksimon" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
 <table>
   <tr>
     <td align="center" width="96">
@@ -138,6 +79,66 @@ me.say_hi()
     </td>
   </tr>
 </table>
+
+```javascript
+/******  Little   Bit   Of   MySelf ******/
+
+const SoftwareEngineer = {
+  name: "S M Simon",
+  contact: {
+         email: "sifemahmudsimon@gmail.com",
+         phone: "+8801728337711"
+  },
+  technologies: {
+        frontEnd: {
+            js: ["React", "Vanila"],
+            html: "Html5",
+            css: ["Css","Scss","Bootstarp5","Tailwind"]
+        },
+        mobileApp: {
+            native: ["React-Native"]
+        },
+        devOps: ["Aws", "Docker🐳"], /*Learning*/
+        databases: ["MySql"],
+        misc: ["Firebase", "Socket.IO", "Open-cv", "GraphQL"]
+    },
+  techBackground: {
+                        location : "Bangladesh",
+                        speaker: "English & Bangla",
+                        Study: "Daffodill International University",
+                        degree: "Computer Science"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react"
+}
+
+me=SoftwareEngineer()
+me.say_hi()
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+- 🔭 I’m currently working on **front end designs & developing on React**
+
+- 🌱 I’m currently learning **React, React Native, Django**
+
+- 🤝 I’m persuing my career as a **Full Stack Developer**
+
+- 📫 How to reach me **sifemahmudsimon@gmail.com or +8801728337711**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/sifemahmudsimon/](https://www.linkedin.com/in/sifemahmudsimon/)
+
+- ⚡ Speciality **I can adapt new things easily & Im a fast learner**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sifemahmudsimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sifemahmudsimon" height="30" width="40" /></a>
+<a href="https://fb.com/koushiksimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="koushiksimon" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+
 
 
 <h3 align="left">Support:</h3>
