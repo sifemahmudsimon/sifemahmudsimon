@@ -7,6 +7,7 @@
 [![GitHub S M Simon](https://img.shields.io/github/followers/sifemahmudsimon?label=follow&style=social)](https://github.com/sifemahmudsimon)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifemahmudsimon&label=Profile%20views&color=0e75b6&style=flat" alt="sifemahmudsimon" /> </p>
 
+<h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -136,7 +137,7 @@ me.say_hi()
 <a href="https://fb.com/koushiksimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="koushiksimon" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
 
 
 
